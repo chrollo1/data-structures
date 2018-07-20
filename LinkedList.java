@@ -1,8 +1,8 @@
 package ds;
 
 public class LinkedList {
-	Node head;  // head of list
-	 
+	Node head; 
+	
     static class Node {
         int data;
         Node next;
