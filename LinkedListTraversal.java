@@ -1,9 +1,7 @@
-package linkedlist;
 
-//A simple Java program for traversal of a linked list
 public class LinkedListTraversal {
 
-	public Node head;  // head of list
+	public Node head; 
 
 	static class Node {
 		int data;
@@ -22,7 +20,6 @@ public class LinkedListTraversal {
 		}
 	}
 
-	/* method to create a simple linked list with 3 nodes*/
 	public static void main(String[] args) {
 		LinkedListTraversal llist = new LinkedListTraversal();
 
