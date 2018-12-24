@@ -1,9 +1,7 @@
 package ds;
 
 public class FirstMissingPositive {
-
-	public static int small(int[] a) {
-		
+	public static int small(int[] a) {		
 		int i = 0;
 		int num = 1;
 		int len = a.length;
@@ -18,16 +16,11 @@ public class FirstMissingPositive {
 			}
 		}
 		
-		return num;
-		
+		return num;		
 	}
 	
-	public static void main(String[] args) {
-		
-        int a[] = {1,2,3,4,7};
-
-        System.out.println(small(a));
-		
+	public static void main(String[] args) {		
+        	int a[] = {1,2,3,4,7};
+        	System.out.println(small(a));		
 	}
-
 }
