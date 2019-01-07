@@ -2,17 +2,17 @@ package ds;
 
 public class FirstMissingPositive {
 	public static int small(int[] a) {		
-		int i = 0;
+		int l = 0;
 		int num = 1;
-		int len = a.length;
+		int r = a.length;
 		
-		while (i < len) {
+		while (i < r) {
 			if (a[i] == num) {
 				System.out.println(num);
 				num++;
-				i = 0;
+				l = 0;
 			} else {
-				i++;
+				l++;
 			}
 		}
 		
