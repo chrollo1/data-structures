@@ -6,7 +6,7 @@ public class FirstMissingPositive {
 		int num = 1;
 		int r = a.length;
 		
-		while (i < r) {
+		while (l < r) {
 			if (a[i] == num) {
 				System.out.println(num);
 				num++;
