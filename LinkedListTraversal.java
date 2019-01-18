@@ -1,6 +1,5 @@
 
 public class LinkedListTraversal {
-
 	public Node head; 
 
 	static class Node {
@@ -32,5 +31,4 @@ public class LinkedListTraversal {
 
 		llist.printList();
 	}
-
 }
