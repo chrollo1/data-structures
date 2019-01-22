@@ -1,5 +1,3 @@
-package ds;
-
 public class LinkedList {
 	Node head; 
 	
@@ -13,7 +11,6 @@ public class LinkedList {
     }
  
     public static void main(String[] args) {
-
     	LinkedList llist = new LinkedList();
  
         llist.head  = new Node(1);
