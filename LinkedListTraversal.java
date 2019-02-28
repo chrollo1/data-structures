@@ -1,4 +1,3 @@
-
 public class LinkedListTraversal {
 	public Node head; 
 
