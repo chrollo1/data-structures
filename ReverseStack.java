@@ -36,7 +36,7 @@ public class ReverseStack {
      
     static void reverse() {
         if(st.size() > 0) {
-             
+              
             // store items, call until end of stack reached
             char x = st.peek();
             st.pop();
