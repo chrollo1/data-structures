@@ -43,8 +43,7 @@ public class SortStack {
 		}
 	}
 
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {	
 		Stack<Integer> st = new Stack<>();
 		
 		st.push(-1);
