@@ -47,8 +47,7 @@ public class ReverseStack {
         }
     }
      
-    public static void main(String[] args) {
-         
+    public static void main(String[] args) {     
         st.push('a');
         st.push('b');
         st.push('c');
