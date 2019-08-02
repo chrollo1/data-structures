@@ -4,6 +4,6 @@
 PDFs: http://jeffe.cs.illinois.edu/teaching/algorithms/
 ## Overview
 * LinkedLists (setup and traversal)
-* Nodes
+* Nodes 
 * Stacks
 * Example problems using data structures
