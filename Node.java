@@ -4,6 +4,6 @@ public class Node {
 	public Node prev;
 	
 	public Node(int d) {
-		this.data = d;
+		this.data = d; 
 	}
 }
